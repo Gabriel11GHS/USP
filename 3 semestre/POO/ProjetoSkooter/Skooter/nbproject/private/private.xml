@@ -4,18 +4,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Auxiliar/Consts.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Modelo/Skoot.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Modelo/Caveira.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Auxiliar/Posicao.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Modelo/Fogo.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Controler/ControleDeJogo.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Auxiliar/Desenho.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Modelo/Personagem.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Main.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Modelo/BichinhoVaiVemHorizontal.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Controler/Tela.java</file>
-            <file>file:/C:/Ju/USP/@Disciplinas/@POO/POO2023-1/Skooter/src/Modelo/ZigueZague.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Main.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Modelo/Caveira.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Modelo/Skoot.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Modelo/BichinhoVaiVemHorizontal.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Modelo/Personagem.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Auxiliar/Posicao.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Niveis/Nivel1.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Auxiliar/Desenho.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Modelo/ZigueZague.java</file>
+            <file>file:/home/gabriel/Documentos/Projetos_GIT/USP/3%20semestre/POO/ProjetoSkooter/Skooter/src/Modelo/Fogo.java</file>
         </group>
     </open-files>
 </project-private>

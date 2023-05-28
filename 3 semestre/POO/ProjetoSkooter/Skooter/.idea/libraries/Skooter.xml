@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Skooter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Skooter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

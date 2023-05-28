@@ -14,8 +14,8 @@ import javax.swing.JPanel;
 public class BichinhoVaiVemHorizontal extends Personagem  implements Serializable{
     private boolean bRight;
 
-    public BichinhoVaiVemHorizontal(String sNomeImagePNG) {
-        super(sNomeImagePNG);
+    public BichinhoVaiVemHorizontal(String robo) {
+        super(robo);
         bRight = true;
     }
     public void autoDesenho(){

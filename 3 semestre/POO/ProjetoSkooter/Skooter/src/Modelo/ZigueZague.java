@@ -5,12 +5,12 @@ import java.util.Random;
 
 public class ZigueZague extends Personagem{
     
-    public ZigueZague(String sNomeImagePNG) {
-        super(sNomeImagePNG);
+    public ZigueZague(String roboPink) {
+        super(roboPink);
     }
 
     public void autoDesenho(){
-        Random rand = new Random();
+        Random rand =   new Random();
         int iDirecao = rand.nextInt(4);
         
         if(iDirecao == 1)

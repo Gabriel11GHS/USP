@@ -9,8 +9,8 @@ import java.io.Serializable;
 public class Caveira extends Personagem implements Serializable{
     private int iContaIntervalos;
     
-    public Caveira(String sNomeImagePNG) {
-        super(sNomeImagePNG);
+    public Caveira(String caveira) {
+        super(caveira);
         this.bTransponivel = false;
         this.iContaIntervalos = 0;
     }

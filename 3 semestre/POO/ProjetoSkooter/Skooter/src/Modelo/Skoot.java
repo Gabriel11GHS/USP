@@ -13,8 +13,8 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class Skoot extends Personagem implements Serializable{
-    public Skoot(String sNomeImagePNG) {
-        super(sNomeImagePNG);
+    public Skoot(String skoot) {
+        super(skoot);
     }
 
     public void voltaAUltimaPosicao(){
